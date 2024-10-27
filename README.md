@@ -15,7 +15,8 @@ https://www.youtube.com/watch?v=IyuRW4DlVfM
 - **Video Posting**: Upload a video with a title and thumbnail.
 - **Home Screen Feed**: Browse all videos created by every user on the platform, providing a collective view of content from the entire community.
 - **Latest Videos**: Find the most recently uploaded videos displayed on the home page.
-- **Profile Page**: Each user has a profile showing their avatar, full name, total videos, and a collection of all videos they've created.
+- **Search Functionality**: A search bar is available on the home screen, enabling users to search for specific videos quickly.
+- **Profile Page**: Each user has a profile showing their avatar, total videos, and a collection of all videos they've created.
 
 ## Technologies Used
 
