@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=IyuRW4DlVfM
 
 ## Introduction
 
-**Aora** is a mobile application where users can upload videos with titles and thumbnails, view videos from all users, and explore profiles. It provides a seamless platform for video sharing and discovery.
+**Aora** is a mobile application where users can upload videos with titles and thumbnails and view videos from all users. It provides a seamless platform for video sharing and discovery.
 
 ## Features
 
